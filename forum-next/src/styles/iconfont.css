@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2275115 */
+  src: url('//at.alicdn.com/t/font_2275115_tcwypm2w27c.woff2?t=1638328410213') format('woff2'),
+       url('//at.alicdn.com/t/font_2275115_tcwypm2w27c.woff?t=1638328410213') format('woff'),
+       url('//at.alicdn.com/t/font_2275115_tcwypm2w27c.ttf?t=1638328410213') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+  content: "\e885";
+}
+
+.icon-gitee:before {
+  content: "\e677";
+}
+
+.icon-collection:before {
+  content: "\e60b";
+}
+
+.icon-collection-b:before {
+  content: "\e60d";
+}
+
+.icon-phone:before {
+  content: "\e600";
+}
+
+.icon-QQ:before {
+  content: "\e666";
+}
+
+.icon-logout:before {
+  content: "\e67f";
+}
+
+.icon-verify:before {
+  content: "\e623";
+}
+
+.icon-user:before {
+  content: "\e638";
+}
+
+.icon-eye-close:before {
+  content: "\e6cf";
+}
+
+.icon-eye-open:before {
+  content: "\e6e1";
+}
+
+.icon-mima:before {
+  content: "\e617";
+}

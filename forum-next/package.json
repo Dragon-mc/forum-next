@@ -1,0 +1,36 @@
+{
+  "name": "forum-next",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@aomao/engine": "^2.6.6",
+    "@element-plus/icons": "0.0.11",
+    "@kangc/v-md-editor": "^2.3.12",
+    "@tinymce/tinymce-vue": "^4.0.4",
+    "axios": "^0.24.0",
+    "codemirror": "^5.63.3",
+    "element-plus": "^1.2.0-beta.1",
+    "highlight.js": "^11.3.1",
+    "highlightjs-line-numbers.js": "^2.8.0",
+    "less": "^2.7.2",
+    "mitt": "^3.0.0",
+    "moment": "^2.29.1",
+    "tinymce": "^5.10.1",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.4",
+    "typescript": "^4.4.3",
+    "vite": "^2.6.4",
+    "vite-plugin-compression": "^0.3.6",
+    "vue-tsc": "^0.3.0"
+  }
+}

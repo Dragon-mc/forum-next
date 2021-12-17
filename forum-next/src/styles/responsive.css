@@ -1,0 +1,26 @@
+.my-container {
+  margin: 0 auto;
+}
+@media screen and (max-width: 767px) {
+  .my-container {
+    width: 100%;
+  }
+  .header_wrap .header_inner {
+    justify-content: space-around !important;
+  }
+}
+@media screen and (min-width: 768px) {
+  .my-container {
+    width: 750px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .my-container {
+    width: 970px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .my-container {
+    width: 1180px;
+  }
+}

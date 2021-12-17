@@ -1,0 +1,5 @@
+$footer-height: 80px;
+
+$header-height: 45px;
+
+$page-min-height: calc(100vh - #{$footer-height} - #{$header-height});
